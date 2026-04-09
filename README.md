@@ -12,5 +12,6 @@ int main() {
     printf("\nDecrementing Pointer:\n");
     ptr--;  
     printf("Value after ptr-- = %d\n", *ptr);
+    printf("\n25331A05I6");
     return 0;
 }
